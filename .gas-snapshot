@@ -1,0 +1,8 @@
+DeployJadeCityTest:testDeployment() (gas: 973447)
+JadeCityTest:testAllowanceAndApproval() (gas: 39972)
+JadeCityTest:testBurn() (gas: 28905)
+JadeCityTest:testInitialSupply() (gas: 11751)
+JadeCityTest:testPermit() (gas: 35505)
+JadeCityTest:testPermitAndTransferFrom() (gas: 97115)
+JadeCityTest:testTransfer() (gas: 44869)
+JadeCityTest:testTransferFrom() (gas: 72323)
